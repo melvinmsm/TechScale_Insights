@@ -1,6 +1,7 @@
 # TechScale_Insights
 A backend focused CRUD- API Blog application to gain a deeper understanding of scalable strategies like microservices architecture, caching, and load balancing. 
 
+![Picture6](https://github.com/user-attachments/assets/53192af9-0b7d-4cda-a6bc-d58de8918c35)
 
 
 # INSTALLATION INSTRUCTIONS
